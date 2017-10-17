@@ -10,6 +10,8 @@ Useful for: Memory corruption, remote arbitrary code execution.
 
 PoC result: Webkit Denial of Service.
 
+Target OS: iOS < 10.3.3
+
 ## How to install these modules
 git clone https://github.com/MTJailed/MSF-Webkit-10.3
 
