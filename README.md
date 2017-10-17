@@ -15,7 +15,7 @@ git clone https://github.com/MTJailed/MSF-Webkit-10.3
 
 cd MSF-Webkit-10.3
 
-cp * /usr/share/metasploit-framework/modules/exploit/apple_ios/safari/
+cp *.rb /usr/share/metasploit-framework/modules/exploit/apple_ios/browser/
 
 
 ## Module Authors
